@@ -1,4 +1,13 @@
-### Hi there 👋
+## Bienvenidos al repositorio de guillezuhe 👋
+#### Welcome to guillezuhe's repository 👋
+
+I'm Guillermo Camacho, a PhD candidate in Applied Physics at the University of Granada. My research focus is on rheology, with special attention to magnetic soft matter.
+
+Here you can find the codes I use to perform simulations, numerical calculations, data analysis and plotting and other cool things as part of my training. If you want to know more about the fascinating world of rheology, do not hesitate to contact me at:
+
+- 📫 guillermocamacho@ugr.es
+- Twitter: @GuillermoZuhe
+
 
 <!--
 **guillezuhe/guillezuhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
